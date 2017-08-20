@@ -1,0 +1,8 @@
+Digital Signage
+
+-Käyttöliittymässä tulee olla slide-showlle mahdolisuus fullscreen-toimintoon, silä se helpottaisi varmasti kuvien näyttöä.
+-Toiminnallisuus on tällä hetkellä, melko minimaalinen, eli sitä pitäisi monipuolistaa, jotta aikaan saisi paremman digital signage ratkaisun.
+-Tällä hetkellä hakusanojen määritys tapahtuu koodissa, eli voisi olla hyvä tehdä se front-puolelle jollakin raktaisulla, esim. valikko, tekstikenttä tms. Myös hakusanat voisivat näkyä jotenkin animoituna yhdellä näytöllä.
+-Sovellus ei käytä oikeastaan mitään informaatiota, joka tulisi välttämättä piilottaa. 
+
+VJH
