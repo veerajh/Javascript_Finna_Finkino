@@ -1,0 +1,41 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+    body {
+      padding-top: 50px;
+      padding-bottom: 20px;
+    }
+
+
+.jumbotron {
+background-image: url("../img/flag.jpg");
+background-size: 50% 100px;
+min-height: 100px;
+}
+
+#resultContainer {
+    margin-top: 25px;
+}
+
+#searchField {
+    margin: 15px;
+}
+
+#myCarousel{
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
